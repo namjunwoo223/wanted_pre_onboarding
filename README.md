@@ -5,3 +5,4 @@
 URI : https://www.wanted.co.kr/events/pre_onboarding_course_9
 
 원티드에서 주관하는 프리온보딩 기간 중 진행했던 모든 작업물 및 수업과제, 기업과제를 저장한 레파지토리입니다!
+(기업과제 4번은 기업 측 요청으로 깃허브에 올리지 않습니다.)
